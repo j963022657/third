@@ -6,4 +6,5 @@ package com.example.demo;
 public class Third {
     public void aaa(){}
     public void bbb(){}
+    public void cc(){}
 }
